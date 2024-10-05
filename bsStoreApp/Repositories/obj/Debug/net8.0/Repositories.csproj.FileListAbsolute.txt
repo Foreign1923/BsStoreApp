@@ -1,0 +1,15 @@
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\bin\Debug\net8.0\Entities.dll
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\bin\Debug\net8.0\Entities.pdb
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\apps\ws\repo\btk-akademi-aspnet-core-web-api-ch_12_validation\bsStoreApp\Repositories\obj\Debug\net8.0\ref\Repositories.dll

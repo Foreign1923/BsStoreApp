@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bsStoreApp",
+    "\\bsStoreApp\\Presentation",
+    "\\bsStoreApp\\Repositories",
+    "\\bsStoreApp\\Repositories\\Contracts",
+    "\\bsStoreApp\\Services",
+    "\\bsStoreApp\\Services\\Contracts",
+    "\\bsStoreApp\\WebApi"
+  ],
+  "SelectedNode": "\\bsStoreApp\\bsStoreApp.sln",
+  "PreviewInSolutionExplorer": false
+}
