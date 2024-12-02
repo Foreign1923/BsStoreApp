@@ -1,6 +1,7 @@
 # BStoreApp
 
-BStoreApp, modern e-ticaret uygulamalarının backend ihtiyaçlarını karşılamak için geliştirilmiş bir Web API projesidir. Bu proje, ürün ve kullanıcı yönetimi, alışveriş sepeti ve sipariş işlevselliklerini RESTful API ilkelerine uygun bir şekilde sunmaktadır. ASP.NET Core altyapısıyla geliştirilmiş olup, güçlü bir güvenlik ve veri yönetimi sağlamak amacıyla tasarlanmıştır.
+BStoreApp projesi, ürün ve kullanıcı yönetimi, alışveriş sepeti ve sipariş işlevselliklerini RESTful API ilkelerine uygun bir şekilde sunmaktadır.
+ASP.NET Core altyapısıyla geliştirilmiş olup, güçlü bir güvenlik ve veri yönetimi sağlamak amacıyla tasarlanmıştır.
 
 ## Özellikler
 
